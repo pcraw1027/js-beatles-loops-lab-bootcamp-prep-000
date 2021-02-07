@@ -19,10 +19,11 @@ function johnLennonFacts(lennonArray) {
   return lennonArray
 }
 
-function iLoveTheBeatles () {
+function iLoveTheBeatles(num) {
+  i = 0
   var emptyArray = []
   do () {
-    
+    emptyArray.push("I love the Beatles")
   } while () {
     
   }
