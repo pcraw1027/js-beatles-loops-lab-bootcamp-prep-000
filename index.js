@@ -11,7 +11,8 @@ function theBeatlesPlay(musicians,instruments) {
 
 
 function johnLennonFacts(lennonArray) {
-  while (lennonArray()) {
+  i = 0
+  while (lennonArray[i]) {
     console.log(lennonArray)
   }
   return lennonArray
