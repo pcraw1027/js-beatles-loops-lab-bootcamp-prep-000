@@ -11,7 +11,7 @@ function theBeatlesPlay(musicians,instruments) {
 
 
 function johnLennonFacts(lennonArray) {
-  while lennon
+  while (lennonArray()) 
 }
 
 // function iLoveTheBeatles () {
