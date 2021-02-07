@@ -2,12 +2,12 @@
 var initArray = []
 var i;
 
-// function theBeatlesPlay(musicians,instruments) {
-//  for (i = 0, i > musicians.lenght, ) {
+function theBeatlesPlay(musicians,instruments) {
+  for (i = 0, i < musicians.lenght, i++) {
   
-//  } 
+  } 
 
-// }
+}
 
 
 // function johnLennonFacts(lennonArray) {
