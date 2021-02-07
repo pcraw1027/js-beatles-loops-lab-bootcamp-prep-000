@@ -3,7 +3,6 @@ var initArray = []
 var i;
 
 function theBeatlesPlay(musicians,instruments) {
-  console.log(musicians.length)
   for (i = 0; i < musicians.length; i++) {
     initArray.push(musicians[i] + " plays " + instruments[i])
   } 
@@ -11,9 +10,9 @@ function theBeatlesPlay(musicians,instruments) {
 }
 
 
-// function johnLennonFacts(lennonArray) {
+function johnLennonFacts(lennonArray) {
   
-// }
+}
 
 // function iLoveTheBeatles () {
   
