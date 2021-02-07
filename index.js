@@ -1,5 +1,5 @@
 // add solution here
-var initArray = new musicianPlaysArray()
+var initArray = []
 
 function theBeatlesPlay(musicians,instruments) {
   for () {
