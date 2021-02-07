@@ -19,6 +19,8 @@ function johnLennonFacts(lennonArray) {
   return lennonArray
 }
 
-// function iLoveTheBeatles () {
+function iLoveTheBeatles () {
+  var emptyArray = []
   
-// }
+  
+}
